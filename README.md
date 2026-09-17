@@ -14,6 +14,8 @@ Window manager configuration for [komorebi](https://github.com/LGUG2Z/komorebi) 
 | `yasb/config.yaml` | `%USERPROFILE%\.config\yasb\config.yaml` |
 | `yasb/styles.css` | `%USERPROFILE%\.config\yasb\styles.css` |
 | `yasb/yasb_colors.css` | `%USERPROFILE%\.config\yasb\yasb_colors.css` |
+| `alacritty/alacritty.toml` | `%APPDATA%\alacritty\alacritty.toml` |
+| `ahk/alacritty.ahk` | `shell:startup\alacritty.ahk` (Win+key app launcher: Alacritty, Duolingo, Brave, Explorer, OneNote, Windows Terminal, Helium) |
 
 ## Restoring on a fresh machine
 
